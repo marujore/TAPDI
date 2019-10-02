@@ -1,2 +1,2 @@
 # TAPDI
-Tópicos Avançados em PDI
+This repository stores "Advanced Image Processing" class lessons
